@@ -1,1 +1,1 @@
-This is an Odin project tutorial for learning html# odin-recipes
+This is an Odin project tutorial for learning html odin-recipes
